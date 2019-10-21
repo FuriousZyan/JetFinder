@@ -1,0 +1,57 @@
+#option
+{
+  position: absolute;
+  right: 100px;
+  top:20px;
+  height: 25px;
+  width: 25px;
+}
+
+#logo
+{
+  position: absolute;
+  left: 100px;
+  top:20px;
+}
+
+.MiddlePart img
+{
+  position: absolute;
+  top: 210px;
+width: 230px;
+right: 40%;
+}
+
+.MiddlePart input
+{
+  width: 500px;
+  height:30px;
+  position: absolute;
+  top: 302px;
+  right: 29%;
+  font-size: 20px;
+}
+#SearchButton
+{
+    width: 60px;
+    position: absolute;
+    left: 70%;
+    top: 310px;
+    left: 66%;
+}
+#Info
+{
+  position: absolute;
+  top: 385px;
+  right: 43%;
+  width: 150px;
+
+}
+
+#CopyRightMark
+{
+  position: absolute;
+  bottom: 10px;
+  right: 100px;
+  width:200px;
+}
